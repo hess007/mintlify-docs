@@ -16,8 +16,11 @@ Click the green **Use this template** button at the top of this repo to copy the
 
 Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
 
-```
-npm i -g mint
+```python expandable
+# npm i -g mint 
+import numpy as np 
+def test():
+	return  
 ```
 
 Run the following command at the root of your documentation, where your `docs.json` is located:
@@ -27,6 +30,8 @@ mint dev
 ```
 
 View your local preview at `http://localhost:3000`.
+
+/
 
 ## Publishing changes
 
