@@ -23,10 +23,10 @@
             ]
           },
           {
-            "group": "Customization 1",
+            "group": "Customization",
             "pages": [
-              "essentials/settings1",
-              "essentials/navigation1",
+              "essentials/settings",
+              "essentials/navigation",
               "essentials/gamma"
             ]
           },
@@ -101,12 +101,7 @@
         "label": "Support",
         "href": "mailto:hi@mintlify.com"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
