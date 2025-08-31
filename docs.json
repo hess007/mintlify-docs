@@ -18,14 +18,16 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "development",
+              "instructions"
             ]
           },
           {
             "group": "Customization 1",
             "pages": [
               "essentials/settings1",
-              "essentials/navigation1"
+              "essentials/navigation1",
+              "essentials/gamma"
             ]
           },
           {
@@ -34,7 +36,8 @@
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
-              "essentials/reusable-snippets"
+              "essentials/reusable-snippets",
+              "essentials/reusable1"
             ]
           },
           {
