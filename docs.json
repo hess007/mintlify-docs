@@ -90,7 +90,7 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/debian.svg"
+    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
