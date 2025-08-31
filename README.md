@@ -1,4 +1,12 @@
-# Mintlify Starter Kit
+# ELMA  Plattform
+
+## Overview
+
+here you should write a description of your documents
+
+![Meer KAT Radio Telescope Jp](/images/MeerKAT_Radio_Telescope.jpg)
+
+/
 
 Use the starter kit to get your docs deployed and ready to customize.
 
@@ -10,7 +18,9 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+[**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
+
+/
 
 ## Development
 
@@ -40,5 +50,6 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 - If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
 
 ### Resources
+
 - [Mintlify documentation](https://mintlify.com/docs)
 - [Mintlify community](https://mintlify.com/community)
