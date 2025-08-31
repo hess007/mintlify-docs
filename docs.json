@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "ELMA",
+  "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -18,14 +18,17 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "development",
+              "Alpha",
+              "Beta",
             ]
           },
           {
             "group": "Customization 1",
             "pages": [
               "essentials/settings1",
-              "essentials/navigation1"
+              "essentials/navigation1",
+              "essentials/gamma",
             ]
           },
           {
