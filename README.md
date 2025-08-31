@@ -1,4 +1,4 @@
-# ELMA  Plattform
+# ELMA  Package
 
 ## Overview
 
@@ -6,7 +6,7 @@ here you should write a description of your documents
 
 ![Meer KAT Radio Telescope Jp](/images/MeerKAT_Radio_Telescope.jpg)
 
-/
+> MEERKAT TELESCOPES
 
 Use the starter kit to get your docs deployed and ready to customize.
 
