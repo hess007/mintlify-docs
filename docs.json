@@ -18,17 +18,14 @@
             "pages": [
               "index",
               "quickstart",
-              "development",
-              "Alpha",
-              "Beta",
+              "development"
             ]
           },
           {
             "group": "Customization 1",
             "pages": [
               "essentials/settings1",
-              "essentials/navigation1",
-              "essentials/gamma",
+              "essentials/navigation1"
             ]
           },
           {
